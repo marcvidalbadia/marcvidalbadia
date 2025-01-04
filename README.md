@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="https://www.researchgate.net/profile/Marc-Vidal-3" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
+   <img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
 </div>
 
