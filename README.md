@@ -18,3 +18,5 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 ![Year](https://img.shields.io/badge/-2024-grey?style=flat-square&labelColor=grey) **Vidal, M.**, Onderdijk, K. E., Aguilera, A. M., Six, J., Maes, P-J., Fritz, T. H., Leman, M. Cholinergic-related pupil activity reflects level of emotionality during motor performance. European Journal of Neuroscience, 59(9):2193–2207. **[⬢ DOI](https://doi.org/10.1111/ejn.15998)**
 
 ![Year](https://img.shields.io/badge/-2022-grey?style=flat-square&labelColor=grey) Vidal, M., Aguilera, A. M. Novel whitening approaches in functional settings. Stat,12(1):e516. **[⬢ DOI](https://doi.org/10.1002/sta4.516)**
+
+![Year](https://img.shields.io/badge/-2021-grey?style=flat-square&labelColor=grey) Vidal, M., Rosso, M., Aguilera, A. M. Bi-smoothed functional independent component analysis for EEG artifact removal. Mathematics, 9(11):1243. **[⬢ DOI](https://doi.org/10.3390/math9111243)**
