@@ -2,7 +2,7 @@
 
 
 
-[button url="http://www.google.com"]
+<button name="button">Click me</button>
 <!--
 **marcvidalbadia/marcvidalbadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
