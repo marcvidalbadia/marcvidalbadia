@@ -18,16 +18,16 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 >
 > **Vidal, M.**, Leman, M., Aguilera, A. M. *Functional independent component analysis by choice of norm: a framework for near-perfect classification.* **[⬢ Arxiv](https://arxiv.org/abs/2412.17971)**
 >
-> **Vidal, M.**, Onderdijk, K. E., Aguilera, A. M., Six, J., Maes, P-J., Fritz, T. H., Leman, M. Cholinergic-related pupil activity reflects level of emotionality during motor performance. European Journal of Neuroscience, 59(9):2193–2207. **[⬢ DOI](https://doi.org/10.1111/ejn.15998)** **[⬢ Code](https://github.com/marcvidalbadia/pupil-turbulence-removal)** 
+> **Vidal, M.**, Onderdijk, K. E., Aguilera, A. M., Six, J., Maes, P-J., Fritz, T. H., Leman, M. *Cholinergic-related pupil activity reflects level of emotionality during motor performance.* European Journal of Neuroscience, 59(9):2193–2207. **[⬢ DOI](https://doi.org/10.1111/ejn.15998)** **[⬢ Code](https://github.com/marcvidalbadia/pupil-turbulence-removal)** 
 
 ![Year](https://img.shields.io/badge/-2023-grey?style=flat-square&labelColor=grey) 
 >
-> Moura, N., **Vidal, M.**, Aguilera, A. M., Vilas-Boas, J.P., Serra, S., Leman, M. Knee flexion of saxophone players anticipates tonal context of music. npj Science of Learning, 8(22).  **[⬢ DOI](https://doi.org/10.1038/s41539-023-00172-z)**
+> Moura, N., **Vidal, M.**, Aguilera, A. M., Vilas-Boas, J.P., Serra, S., Leman, M. *Knee flexion of saxophone players anticipates tonal context of music. npj Science of Learning, 8(22).*  **[⬢ DOI](https://doi.org/10.1038/s41539-023-00172-z)**
 
 ![Year](https://img.shields.io/badge/-2022-grey?style=flat-square&labelColor=grey) 
 >
-> **Vidal, M.**, Aguilera, A. M. Novel whitening approaches in functional settings. Stat,12(1):e516. **[⬢ DOI](https://doi.org/10.1002/sta4.516)**
+> **Vidal, M.**, Aguilera, A. M. *Novel whitening approaches in functional settings.* Stat,12(1):e516. **[⬢ DOI](https://doi.org/10.1002/sta4.516)**
 
 ![Year](https://img.shields.io/badge/-2021-grey?style=flat-square&labelColor=grey) 
 >
->**Vidal, M.**, Rosso, M., Aguilera, A. M. Bi-smoothed functional independent component analysis for EEG artifact removal. Mathematics, 9(11):1243. **[⬢ DOI](https://doi.org/10.3390/math9111243)**
+>**Vidal, M.**, Rosso, M., Aguilera, A. M. *Bi-smoothed functional independent component analysis for EEG artifact removal.* Mathematics, 9(11):1243. **[⬢ DOI](https://doi.org/10.3390/math9111243)**
