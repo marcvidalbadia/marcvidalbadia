@@ -14,3 +14,7 @@
 Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ View DOI](https://doi.org/10.1234/example-doi)**
 
 [![DOI](https://img.shields.io/badge/View_DOI-0077cc?style=for-the-badge)](https://doi.org/10.1234/example-doi)
+
+Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification.  
+
+<a href="https://doi.org/10.1234/example-doi" style="display: inline-block; padding: 10px 20px; background-color: #0077cc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" target="_blank">View DOI</a>
