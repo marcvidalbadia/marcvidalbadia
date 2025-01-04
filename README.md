@@ -15,5 +15,4 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 ## Publications
 Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ DOI](https://doi.org/10.1234/example-doi)**
 
-[![DOI](https://img.shields.io/badge/View_DOI-0077cc?style=for-the-badge)](https://doi.org/10.1234/example-doi)
 
