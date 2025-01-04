@@ -9,10 +9,12 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 🎓 **Research Interests**: Functional data analysis · Factor analysis · High-dimensional data · Independent component analysis · Music neuroscience  · Neuroimaging preprocessing methods · Probability theory · Semi- and non-parametric methods
 
 [![CV Badge](https://img.shields.io/badge/View_CV-lightgrey?style=for-the-badge&logo=readme&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia.github.io/blob/main/DOCS/cv.pdf)
+[![ArXiv](https://img.shields.io/badge/ArXiv-lightgrey?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-lightgrey?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
 [![Math Genealogy Entry](https://img.shields.io/badge/Math_Genealogy-lightgrey?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mathgenealogy.org/id.php?id=321807)
-[![Web of Science Entry](https://img.shields.io/badge/Web_of_Science-lightgrey?style=for-the-badge&logo=&logoColor=white)](https://www.webofscience.com/wos/author/record/AAZ-6827-2021)
 [![Scopus Entry](https://img.shields.io/badge/Scopus-lightgrey?style=for-the-badge&logo=&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57222092284)
+[![Web of Science Entry](https://img.shields.io/badge/Web_of_Science-lightgrey?style=for-the-badge&logo=&logoColor=white)](https://www.webofscience.com/wos/author/record/AAZ-6827-2021)
+
 
 ## Publications
 
