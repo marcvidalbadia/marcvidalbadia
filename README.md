@@ -8,7 +8,7 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 🎓 **Research Interests**: Functional data analysis · High-dimensional data · Independent component analysis · Music neuroscience  · Neuroimaging preprocessing methods · Probability theory · Semi- and non-parametric methods · Statistical neuroscience
 
-[![CV Badge](https://img.shields.io/badge/View_CV-blue?style=for-the-badge&logo=readme&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia.github.io/blob/main/DOCS/cv.pdf)
+[![CV Badge](https://img.shields.io/badge/View_CV-lightgrey?style=for-the-badge&logo=readme&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia.github.io/blob/main/DOCS/cv.pdf)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
 [![Math Genealogy Entry](https://img.shields.io/badge/Math_Genealogy-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mathgenealogy.org/id.php?id=321807)
 
