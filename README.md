@@ -13,6 +13,6 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 [![Math Genealogy Entry](https://img.shields.io/badge/Math_Genealogy-lightgrey?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mathgenealogy.org/id.php?id=321807)
 
 ## Publications
-![Year](https://img.shields.io/badge/-2024-grey?style=flat-square&labelColor=grey) ![Neuroscience](https://img.shields.io/badge/-●-blue?style=flat-square&labelColor=white) Vidal, M., Leman, M., Aguilera, A. M. *Functional independent component analysis by choice of norm: a framework for near-perfect classification.* **[⬢ DOI](https://doi.org/10.1234/example-doi)**
+![Year](https://img.shields.io/badge/-2024-grey?style=flat-square&labelColor=grey) ![Neuroscience](https://img.shields.io/badge/-●-white?style=flat-square&labelColor=white) Vidal, M., Leman, M., Aguilera, A. M. *Functional independent component analysis by choice of norm: a framework for near-perfect classification.* **[⬢ DOI](https://doi.org/10.1234/example-doi)**
 
 
