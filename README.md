@@ -13,6 +13,6 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 [![Math Genealogy Entry](https://img.shields.io/badge/Math_Genealogy-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mathgenealogy.org/id.php?id=321807)
 
 ## Publications
-Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ DOI](https://doi.org/10.1234/example-doi)**
+![2023](https://img.shields.io/badge/Year-2023-blue?style=flat-square) Vidal, M., Leman, M., Aguilera, A. M. *Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ DOI](https://doi.org/10.1234/example-doi)**
 
 
