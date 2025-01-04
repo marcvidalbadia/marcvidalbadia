@@ -10,10 +10,11 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
   <a href="https://www.researchgate.net/profile/Marc-Vidal-3" target="_blank">
    <img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
+  ⬢ [View My CV](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia.github.io/blob/main/DOCS/cv.pdf)
 </div>
 
 ## Publications
-Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ View DOI](https://doi.org/10.1234/example-doi)**
+Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ DOI](https://doi.org/10.1234/example-doi)**
 
 [![DOI](https://img.shields.io/badge/View_DOI-0077cc?style=for-the-badge)](https://doi.org/10.1234/example-doi)
 
