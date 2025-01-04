@@ -4,6 +4,8 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 🎓 **Research Interests**: Functional data analysis · Factor analysis · High-dimensional data · Independent component analysis · Music neuroscience  · Neuroimaging preprocessing methods · Probability theory · Semi- and non-parametric methods
 
+📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
+
 [![CV Badge](https://img.shields.io/badge/View_CV-lightgrey?style=for-the-badge&logo=readme&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
 [![ArXiv](https://img.shields.io/badge/ArXiv-lightgrey?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-lightgrey?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
