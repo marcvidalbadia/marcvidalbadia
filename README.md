@@ -1,6 +1,8 @@
 ## About me 🔭
 
-`I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.`
+```
+I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.
+```
 
 🎓 **Research Interests**: Functional data analysis · Factor analysis · High-dimensional data · Independent component analysis · Music neuroscience  · Neuroimaging preprocessing methods · Probability theory · Semi- and non-parametric methods
 
