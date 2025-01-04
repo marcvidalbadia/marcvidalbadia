@@ -5,15 +5,11 @@
 </div>
 
 <div id="badges">
-<a href="https://www.linkedin.com" target="_blank" class="icon-link">
-    <i class="fab fa-linkedin fa-2x" style="color: #0077b5;"></i>
-</a>
-<a href="https://www.researchgate.net" target="_blank" class="icon-link">
-    <i class="fab fa-researchgate fa-2x" style="color: #00CCBB;"></i>
-</a>
+  <a href="https://www.researchgate.net/profile/Marc-Vidal-3" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
+  </a>
 </div>
 
-<button name="button">Click me</button>
 <!--
 **marcvidalbadia/marcvidalbadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
