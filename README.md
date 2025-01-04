@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+I hold a PhD/MSc in Mathematical and Applied Statistics from the University of Granada and a PhD in Art Science from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. My primary emphasis of application is on data-driven modeling and inference of neurotransmitter activity during motor and emotional arousal states related to embodiment processes. Below, you can download my CV and view some of my recent research projects.
+
 <div id="badges">
   <a href="https://www.researchgate.net/profile/Marc-Vidal-3" target="_blank">
    <img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
