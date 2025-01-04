@@ -5,12 +5,12 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <a href="https://www.researchgate.net/profile/Marc-Vidal-3" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
-  </a>
+<a href="https://www.linkedin.com" target="_blank" class="icon-link">
+    <i class="fab fa-linkedin fa-2x" style="color: #0077b5;"></i>
+</a>
+<a href="https://www.researchgate.net" target="_blank" class="icon-link">
+    <i class="fab fa-researchgate fa-2x" style="color: #00CCBB;"></i>
+</a>
 </div>
 
 <button name="button">Click me</button>
