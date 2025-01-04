@@ -10,6 +10,8 @@
   </a>
 </div>
 
+Vidal, M., Leman, M., Aguilera, A. M. Functional independent component analysis by choice of norm: a framework for near-perfect classification. **[⬢ View DOI](https://doi.org/10.1234/example-doi)**
+
 <!--
 **marcvidalbadia/marcvidalbadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
