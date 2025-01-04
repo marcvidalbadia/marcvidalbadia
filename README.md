@@ -14,7 +14,7 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 ## Publications
 
-> ![Year](https://img.shields.io/badge/-2024-grey?style=flat-square&labelColor=grey)
+![Year](https://img.shields.io/badge/-2024-grey?style=flat-square&labelColor=grey)
 >
 > **Vidal, M.**, Leman, M., Aguilera, A. M. *Functional independent component analysis by choice of norm: a framework for near-perfect classification.* **[⬢ Arxiv](https://arxiv.org/abs/2412.17971)**
 >
