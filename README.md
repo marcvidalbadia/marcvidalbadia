@@ -30,7 +30,7 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 ![Year](https://img.shields.io/badge/-2022-grey?style=flat-square&labelColor=grey) 
 >
-> **Vidal, M.**, Aguilera, A. M. *Novel whitening approaches in functional settings.* Stat,12(1):e516. **[⬢ DOI](https://doi.org/10.1002/sta4.516)**
+> **Vidal, M.**, Aguilera, A. M. *Novel whitening approaches in functional settings.* Stat,12(1):e516. **[⬢ DOI](https://doi.org/10.1002/sta4.516)**  **[⬢ Corregidum]([https://doi.org/10.1002/sta4.516](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/main.pdf))** **[⬢ Code](https://github.com/marcvidalbadia/functional-whitening)** 
 
 ![Year](https://img.shields.io/badge/-2021-grey?style=flat-square&labelColor=grey) 
 >
