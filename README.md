@@ -8,12 +8,11 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
 
 [![CV Badge](https://img.shields.io/badge/View_CV-0077b5?style=flat&logo=file-alt&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
-[![CV Badge](https://img.shields.io/badge/View_CV-grey?style=for-the-badge&logo=readme&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
-[![ArXiv](https://img.shields.io/badge/ArXiv-grey?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
-[![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-grey?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
-[![Math Genealogy Entry](https://img.shields.io/badge/Math_Genealogy-grey?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mathgenealogy.org/id.php?id=321807)
-[![Scopus Entry](https://img.shields.io/badge/Scopus-grey?style=for-the-badge&logo=&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57222092284)
-[![Web of Science Entry](https://img.shields.io/badge/Web_of_Science-grey?style=for-the-badge&logo=&logoColor=white)](https://www.webofscience.com/wos/author/record/AAZ-6827-2021)
+[![ArXiv](https://img.shields.io/badge/ArXiv-red?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
+[![Math Genealogy](https://img.shields.io/badge/Math_Genealogy-lightgrey?style=flat&logo=graduation-cap&logoColor=white)](https://www.mathgenealogy.org/id.php?id=321807)
+[![Scopus](https://img.shields.io/badge/Scopus-green?style=flat&logo=readme&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57222092284)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-orange?style=flat&logo=readme&logoColor=white)](https://www.webofscience.com/wos/author/record/AAZ-6827-2021)
 
 
 ## Publications
