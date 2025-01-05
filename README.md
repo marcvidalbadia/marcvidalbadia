@@ -7,6 +7,7 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
 
+[![CV Badge](https://img.shields.io/badge/View_CV-0077b5?style=flat&logo=file-alt&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
 [![CV Badge](https://img.shields.io/badge/View_CV-grey?style=for-the-badge&logo=readme&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
 [![ArXiv](https://img.shields.io/badge/ArXiv-grey?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-grey?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
