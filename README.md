@@ -1,3 +1,4 @@
+pandoc -s input.md -o output.html --metadata title="Marc Vidal" --metadata description="Marc Vidal, Postdoctoral Fellow at Ghent University. Research in mathematical statistics and neuroscience."
 ## About me 🔭
 I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.
 
