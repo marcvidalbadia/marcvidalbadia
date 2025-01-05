@@ -1,5 +1,5 @@
 ## About me 🔭
-<p style="text-align:center;">I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.</p>
+I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.
 
 [![CV Badge](https://img.shields.io/badge/View_CV-0077b5?style=flat&logo=file-alt&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
 [![ArXiv](https://img.shields.io/badge/ArXiv-red?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
