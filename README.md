@@ -40,17 +40,12 @@ Mathematics and Computers in Simulation.
 >
 >**Vidal, M.**, Rosso, M., Aguilera, A. M. *Bi-smoothed functional independent component analysis for EEG artifact removal.* Mathematics, 9(11):1243. **[DOI](https://doi.org/10.3390/math9111243)** | **[Updated version](https://github.com/marcvidalbadia/marcvidalbadia/blob/16eb1230206c09e78a482967a3af55efd1d7de4e/DOCS/2024_21Vidal.pdf)**
 
-<div style="display: flex; align-items: center;">
-
-  <!-- Image on the left -->
-  <img src="your-image-url.jpg" alt="Description" style="width: 150px; height: auto; margin-right: 20px; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
-
-  <!-- Text on the right -->
-  <p>
-    This is the text that appears on the right of the image. Markdown **syntax** still works here, like:
-    - Bulleted lists
-    - **Bold text**
-    - [Links](https://example.com)
+| ![Description](your-image-url.jpg) | This is the text that appears next to the image. You can use Markdown **syntax** here, like:
+  - Bulleted lists
+  - **Bold text**
+  - [Links](https://example.com)
+|
+|------------------------------------|----------------------------------------------------------------------------------|
   </p>
 
 </div>
