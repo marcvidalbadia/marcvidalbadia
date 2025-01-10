@@ -1,8 +1,8 @@
-<details open>
-<summary>I automatically open</summary>
-<br>
-Waaa, you see me. I thought I would be hidden ;p .
-</details>
+[comment]: # <details open>
+[comment]: # <summary>I automatically open</summary>
+[comment]: # <br>
+[comment]: # Waaa, you see me. I thought I would be hidden ;p .
+[comment]: # </details>
 
 ## About me 🔭
 I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.
