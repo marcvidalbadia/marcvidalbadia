@@ -19,7 +19,7 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 ![Year](https://img.shields.io/badge/-2025-grey?style=flat-square&labelColor=grey)
 >
->  **Vidal, M.**, Aguilera, A. M. *Wavelet thresholding on independent subspace factorizations of spatially indexed wide functional data for robust estimation of cortical activity*. To appear at:
+>  **Vidal, M.**, Aguilera, A. M. *Wavelet thresholding on independent subspace factorizations of spatially indexed wide functional data for robust estimation of cortical activity*. To appear in:
 Mathematics and Computers in Simulation.
 >
 > **Vidal, M.**, Leman, M., Aguilera, A. M. *Functional independent component analysis by choice of norm: a framework for near-perfect classification.* **[Arxiv](https://arxiv.org/abs/2412.17971)**
