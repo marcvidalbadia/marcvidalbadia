@@ -1,3 +1,17 @@
+---
+title: "Tabset Example"
+output: html_document
+---
+
+# The Tabset Section {.tabset .tabset-fade}
+
+## First Tab
+Here is the first tab's content.
+
+## Second Tab
+Here is the second tab's content
+```
+
 ## About me 🔭
 I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University of Granada and a PhD in **Art Science** from Ghent University. I develop statistical methods and algorithms for preprocessing and analyzing data from neurophysiological monitoring techniques (e.g., EEG, MEG, MRI, pupillometry), integrating elements of infinite-dimensional and high-dimensional data analysis. Below, you can download my CV and view some of my recent research projects.
 
