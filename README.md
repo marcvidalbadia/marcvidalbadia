@@ -40,9 +40,4 @@ Mathematics and Computers in Simulation.
 >
 >**Vidal, M.**, Rosso, M., Aguilera, A. M. *Bi-smoothed functional independent component analysis for EEG artifact removal.* Mathematics, 9(11):1243. **[DOI](https://doi.org/10.3390/math9111243)** | **[Updated version](https://github.com/marcvidalbadia/marcvidalbadia/blob/16eb1230206c09e78a482967a3af55efd1d7de4e/DOCS/2024_21Vidal.pdf)**
 
-| ![Description](https://tiiny.host/blog/assets/images/images-in-markdown-hero.png) | This is the text that appears next to the image. You can use Markdown **syntax** here, like:
-
- 
-  </p>
-
-</div>
+![Description](https://tiiny.host/blog/assets/images/images-in-markdown-hero.png){width=150px} This is the text that appears to the right of the image. Markdown **syntax** like [links](https://example.com) and *italic text* will still work here.
