@@ -37,5 +37,3 @@ Mathematics and Computers in Simulation.
 ![Year](https://img.shields.io/badge/-2021-grey?style=flat-square&labelColor=grey) 
 >
 >**Vidal, M.**, Rosso, M., Aguilera, A. M. *Bi-smoothed functional independent component analysis for EEG artifact removal.* Mathematics, 9(11):1243. **[DOI](https://doi.org/10.3390/math9111243)** | **[Updated version](https://github.com/marcvidalbadia/marcvidalbadia/blob/16eb1230206c09e78a482967a3af55efd1d7de4e/DOCS/2024_21Vidal.pdf)**
-
-## Research insights
