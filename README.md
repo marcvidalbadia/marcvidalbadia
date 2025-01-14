@@ -13,6 +13,36 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
 
 
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab Social-Media
+
+tab content Social-Media
+
+### tab Contact
+
+tab content  Contact
+
+### tab Revisions
+
+tab content  Revisions
+
+### tab Articles
+
+tab content  Articles
+
+### tab Skills
+
+tab content  Skills
+
+### tab Insights
+
+tab content  Insights
+
+content below tabbed region
+
+
 ## Publications
 
 ![Year](https://img.shields.io/badge/-2025-grey?style=flat-square&labelColor=grey)
