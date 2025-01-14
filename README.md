@@ -12,6 +12,16 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 
 📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
 
+<details>
+  <summary>NodeJS example</summary>
+  *some NodeJS code here...*
+</details>
+
+<details>
+  <summary>RoR example</summary>
+  *some Ruby on Rails code here...*
+</details>
+
 ## Publications
 
 ![Year](https://img.shields.io/badge/-2025-grey?style=flat-square&labelColor=grey)
