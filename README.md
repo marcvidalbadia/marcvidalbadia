@@ -8,6 +8,3 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-orange?style=flat&logo=readme&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57222092284)
 [![Web of Science](https://img.shields.io/badge/Web_of_Science-orange?style=flat&logo=readme&logoColor=white)](https://www.webofscience.com/wos/author/record/AAZ-6827-2021)
-
-
-📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
