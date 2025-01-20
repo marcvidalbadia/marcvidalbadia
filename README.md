@@ -9,8 +9,5 @@ I hold a PhD/MSc in **Mathematical and Applied Statistics** from the University 
 [![Scopus](https://img.shields.io/badge/Scopus-orange?style=flat&logo=readme&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57222092284)
 [![Web of Science](https://img.shields.io/badge/Web_of_Science-orange?style=flat&logo=readme&logoColor=white)](https://www.webofscience.com/wos/author/record/AAZ-6827-2021)
 
-🎓 **Research Interests**: Functional data analysis · Factor analysis · High-dimensional data · Independent component analysis · Music neuroscience  · Neuroimaging preprocessing methods · Probability theory · Semi- and non-parametric methods
-
-
 
 📬 [marc.vidalbadia@ugent.be](mailto:marc.vidalbadia@ugent.be)
