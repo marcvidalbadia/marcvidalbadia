@@ -5,6 +5,7 @@ Below, you can download my CV, have access to my publications, and view some of 
 <!-- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_uAst7QAAAAJ) -->
 
 Publications and preprints:
+
 [![Institutional webpage Badge](https://img.shields.io/badge/Institutional_webpage-0077b5?style=flat&logo=file-alt&logoColor=white)](https://biblio.ugent.be/person/802003036843)
 [![ArXiv](https://img.shields.io/badge/ArXiv-red?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/a/vidal_m_1.html)
 [![Scopus](https://img.shields.io/badge/Scopus-orange?style=flat&logo=readme&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57222092284)
