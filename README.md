@@ -1,4 +1,4 @@
-This GitHub page features repositories with code and documents related to my research. Below, you can download my CV, explore my publications, and learn more about my recent projects.
+This GitHub page features repositories with code and documents related to my research. Below, you can download my CV, have access to my publications, and view some of my recent research projects.
 
 ### Quick Links
 [![CV Badge](https://img.shields.io/badge/View_CV-0077b5?style=flat&logo=file-alt&logoColor=white)](https://nbviewer.org/github/marcvidalbadia/marcvidalbadia/blob/main/DOCS/cv.pdf)
